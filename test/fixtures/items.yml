@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  brand: MyString
+  size: MyString
+  color: MyString
+  purchased_from: MyString
+  purchase_date: 2016-05-01
+  cost_price: 9.99
+  customs_fees: 9.99
+  taxes: 9.99
+  shipping_cost: 9.99
+  total_cost: 9.99
+  image_url: MyString
+
+two:
+  name: MyString
+  brand: MyString
+  size: MyString
+  color: MyString
+  purchased_from: MyString
+  purchase_date: 2016-05-01
+  cost_price: 9.99
+  customs_fees: 9.99
+  taxes: 9.99
+  shipping_cost: 9.99
+  total_cost: 9.99
+  image_url: MyString
